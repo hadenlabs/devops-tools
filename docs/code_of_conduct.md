@@ -1,4 +1,4 @@
-<!-- Space: BASE-TEMPLATE -->
+<!-- Space: DEVOPS-TOOLS -->
 <!-- Title: Code Of Conduct -->
 
 # Contributor Covenant Code of Conduct

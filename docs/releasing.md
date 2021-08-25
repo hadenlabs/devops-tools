@@ -1,11 +1,11 @@
-<!-- Space: BASE-TEMPLATE -->
+<!-- Space: DEVOPS-TOOLS -->
 <!-- Title: Releasing -->
 
 # Releasing
 
 ## Bump a new version
 
-Make a new version of base-template in the following steps:
+Make a new version of devops-tools in the following steps:
 
 - Make sure everything is commit to github.com.
 - Update `CHANGELOG.md` with the next version.
