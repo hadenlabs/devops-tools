@@ -22,9 +22,9 @@ TEAM := hadenlabs
 REPOSITORY_DOMAIN:=github.com
 REPOSITORY_OWNER:=${TEAM}
 AWS_VAULT ?= ${TEAM}
-PROJECT := base-template
+PROJECT := devops-tools
 
-PYTHON_VERSION=3.8.0
+PYTHON_VERSION=3.9.2
 NODE_VERSION=14.16.1
 PYENV_NAME="${PROJECT}"
 GIT_IGNORES:=python,node,go,zsh
